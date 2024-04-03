@@ -1,0 +1,14 @@
+Inst : votemenu,
+Inst : Discord.ya,
+Inst : Mindustry.game,
+Inst : Java.Paracol,
+Inst : Mindustry.UI,
+Inst : Mindustry.Mods,
+Inst : Calamity,
+Inst : Calamity.UI,
+Inst : VoteMenu.UI
+
+cont CalamityVote pr [VoteMenu.UI];
+	Calamity.UI link{
+discord.ya
+}

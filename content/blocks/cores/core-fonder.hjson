@@ -1,0 +1,17 @@
+type: CoreBlock
+category: effect
+health: 14000
+size: 8
+
+itemCapacity: 10000
+unitCapModifier: 20
+unitType: "evoke"
+incinerateNonBuildable: true
+isFirstTier: false
+squareSprite: false
+
+requirements: [
+    "copper/1000"
+]
+
+alwaysUnlocked: false

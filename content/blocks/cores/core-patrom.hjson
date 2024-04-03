@@ -1,0 +1,23 @@
+type: CoreBlock
+category: effect
+health: 5000
+size: 4
+
+itemCapacity: 4000
+unitCapModifier: 15
+unitType: "evoke"
+incinerateNonBuildable: true
+isFirstTier: true
+squareSprite: false
+
+requirements: [
+    "copper/1000"
+]
+
+research: {
+    root: true
+    name: @e-techtree
+	planet: Erekir
+}
+
+alwaysUnlocked: true

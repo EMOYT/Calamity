@@ -1,0 +1,10 @@
+explosiveness: 5000000000000000
+flammability: 10000000000000000
+radioactivity: 1000000000000000
+charge: 5000000000000000
+cost: 1
+
+research: {
+    parent: "obs_studio"
+}
+

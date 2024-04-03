@@ -1,0 +1,12 @@
+type: Floor
+variants: 0
+
+isLiquid: true
+liquidDrop: uncid
+
+status: speed-up
+statusDuration: 250
+speedMultiplier: 1.5
+drownTime: 110
+
+cacheLayer: water

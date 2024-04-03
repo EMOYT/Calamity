@@ -1,0 +1,46 @@
+{
+  "type": "Drill",
+  "hasPower": false,
+  "hasLiquids": true,
+  "liquidCapacity": 10,
+  "consumes": {
+    "liquids": [
+      "water/0.2"
+      "gybrid/1"
+      "uncid/0.6"
+    ]
+  },
+  "size": 3,
+  "tier": 4,
+  "drillTime": 50,
+  "requirements": [
+    "skulck/15"
+  ],
+  "category": "production",
+  "research": "skulck-drill"
+"hiddenItems": [
+    "copper"
+    "lead"
+    "scrap"
+    "graphite"
+    "coal"
+    "titanium"
+    "thorium"
+    "silicon"
+    "plastanium"
+    "phase-fabric"
+    "surge-alloy"
+    "spore-pod"
+    "sand"
+    "blast-compound"
+    "pyratite"
+    "metaglass"
+    "beryllium"
+    "oxide"
+    "tungsten"
+    "carbide"
+    "fissile-matter"
+    "dormant-cyst"
+]
+
+}

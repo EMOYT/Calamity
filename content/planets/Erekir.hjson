@@ -1,0 +1,74 @@
+generator: ErekirPlanetGenerator
+parent: sun
+iconColor: ffde51
+orbitRadius: 100
+hasAtmosphere: true
+updateLighting: false
+atmosphereRadIn: 0
+atmosphereRadOut: 0.2
+atmosphereColor: 8b6c62
+drawOrbit: true
+
+accessible: true
+alwaysUnlocked: true
+defaultCore: "core-patrom"
+sectorSeed: 20000
+startSector: 2000
+sectorSize: 2
+
+clearSectorOnLose: true
+allowSectorInvasion: false
+allowLaunchToNumbered: false
+	
+cloudMesh: {
+    type: HexSkyMesh
+    planet: Erekir
+    seed: 1
+    speed: 20
+    radius: 0.15
+    divisions: 2
+    color: ffde51
+    octaves: 0
+    persistence: 1
+    scl: 5
+    thresh: 0.1
+}
+	
+mesh: {
+    type: NoiseMesh
+    planet: Erekir
+    seed: 562697
+    color1: ffde51
+    color2: 81481b
+    divisions: 5
+    radius: 0.9
+    octaves: 7
+    persistence: 1
+    scl: 0.75
+    mag: 1.2
+}
+	
+hiddenItems: [
+    "copper"
+    "lead"
+    "scrap"
+    "graphite"
+    "coal"
+    "titanium"
+    "thorium"
+    "silicon"
+    "plastanium"
+    "phase-fabric"
+    "surge-alloy"
+    "spore-pod"
+    "sand"
+    "blast-compound"
+    "pyratite"
+    "metaglass"
+    "beryllium"
+    "oxide"
+    "tungsten"
+    "carbide"
+    "fissile-matter"
+    "dormant-cyst"
+]

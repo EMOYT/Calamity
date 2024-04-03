@@ -1,0 +1,9 @@
+explosiveness: 5
+flammability: 1
+radioactivity: 10
+charge: 5
+cost: 1
+
+research: {
+    parent: "green_phaza"
+}

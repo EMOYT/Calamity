@@ -1,0 +1,24 @@
+color: 997e2e
+barColor: 997e2e
+effect: "speed-up"
+
+viscosity: 0.2
+temperature: 0.2
+heatCapacity: 1
+
+coolant: false
+
+particleEffect: {
+    particles: 1
+    length: 0
+    lifetime: 60
+    sizeFrom: 1
+    sizeTo: 0
+    colorFrom: af9544
+    colorTo:997e2e
+}
+
+research: {
+    parent: "core-patrom"
+}
+alwaysUnlocked: true

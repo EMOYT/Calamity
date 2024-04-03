@@ -1,0 +1,15 @@
+{
+  "localizedName": "Tree",
+  "description": "Decoration!.",
+  "alwaysUnlocked": true,
+  "buildVisibility": "editorOnly",
+  "type": "LightBlock",
+  "health": 800,
+  "size": 2,
+  "research": {
+    "root": true,
+    "planet": "Erekir",
+    "name": "decoration-tree",
+    "requiresUnlock": false
+  }
+}
