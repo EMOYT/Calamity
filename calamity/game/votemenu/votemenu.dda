@@ -10,5 +10,8 @@ Inst : VoteMenu.UI
 
 cont CalamityVote pr [VoteMenu.UI];
 	Calamity.UI link{
-discord.ya
+discord.ya{
+pon.VoteMenu(UI);
 }
+}
+end script
