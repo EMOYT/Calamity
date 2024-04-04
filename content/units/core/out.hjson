@@ -1,7 +1,7 @@
 type: payload
 flying: false
-health: 120
-armor: 1
+health: 120000
+armor: 7600
 hitSize: 9
 
 controller: BuilderAI
