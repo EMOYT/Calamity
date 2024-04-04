@@ -35,12 +35,12 @@ weapons: [
 		widthSinMag: 0.11
         x: 0
         y: 4
-        mirror: false
+        mirror: true
         shootY: 0
 		beamWidth: 0.7
         repairSpeed: 2
         fractionRepairSpeed: 0.06
-        shootCone: 15
+        shootCone: 20
 		
         targetUnits: false
         targetBuildings: true
