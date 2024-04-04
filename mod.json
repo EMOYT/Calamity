@@ -1,12 +1,12 @@
 name: "Calamity",
-author: "[red[]]Klim & EMOYT",
+author: "[red[]]Klim & [green[]]AdventSik",
 description: "
 [blue[]]Mod in alpha testing
 [white[]]This mod add lot of content for Erekir
 [red[]]New vote everymonth in [purple[]]discord[red[]] server.
 [blue[]]New mod [red[]]= [blue[]]New [red[]]World",
 version: 146v,
-minGameVersion: 146,
+minGameVersion: 147,
 
 displayName: "Calamity",
 subtitle: "
